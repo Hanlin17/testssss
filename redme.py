@@ -9,3 +9,13 @@ def func2():
     if a == 1:
         print(f"I am func2")
     print("dasdasd")
+
+    a = "dsada";
+    if a==1:
+        print(f"I am func2")
+    print("dasdasd")
+
+    a = "dsada";
+    if a==1:
+        print(f"I am func2")
+    print("dasdasd")
