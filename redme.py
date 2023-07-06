@@ -10,12 +10,12 @@ def func2():
         print(f"I am func2")
     print("dasdasd")
 
-    a = "dsada";
+    a = "sddasd";
     if a==1:
         print(f"I am func2")
     print("dasdasd")
 
-    a = "dsada";
+    a = "sadasd";
     if a==1:
         print(f"I am func2")
     print("dasdasd")
