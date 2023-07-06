@@ -4,3 +4,5 @@ def func1():
         print(f"I am func2")
     print("dasdasd")
 
+def func2():
+    func1()
